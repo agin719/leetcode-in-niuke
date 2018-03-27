@@ -13,7 +13,8 @@
 * 复杂度 single-number
 * 动态规划 candy
 * 贪心 gas-station
-* 动态规划  palindrome-partitioning-ii
+* 动态规划 palindrome-partitioning-ii
+* 动态规划 triangle
 
 
 未完成：
@@ -22,3 +23,4 @@
 * 图 clone-graph
 * 复杂度 single-number-ii
 * 穷举 max-points-on-a-line
+* 数组 surrounded-regions
