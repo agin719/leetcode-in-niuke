@@ -15,7 +15,8 @@
 * 贪心 gas-station
 * 动态规划 palindrome-partitioning-ii
 * 动态规划 triangle
-
+* 树 sum-root-to-leaf-numbers
+* 动态规划 distinct-subsequences
 
 未完成：
 * 动态规划 word-break
