@@ -17,6 +17,9 @@
 * 动态规划 triangle
 * 树 sum-root-to-leaf-numbers
 * 动态规划 distinct-subsequences
+* 递归 valid-palindrome
+* 模拟  pascals-triangle
+* 模拟  pascals-triangle-ii
 
 未完成：
 * 动态规划 word-break
