@@ -1,4 +1,5 @@
 在牛客网上的在线编程中的leetcode在线编程题解
+代码中有详细题解
 
 完成：
 * 树 Minimum Depth of Binary Tree
@@ -20,6 +21,7 @@
 * 递归 valid-palindrome
 * 模拟  pascals-triangle
 * 模拟  pascals-triangle-ii
+* 树 same-tree
 
 未完成：
 * 动态规划 word-break
